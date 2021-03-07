@@ -19,7 +19,7 @@ blockquote {
 }
 
 body {
-	font-family: "Georgia";
+	font-family: "Georgia", Serif, sans-seriferif;
 	color: #009097;
 }
 
@@ -28,7 +28,7 @@ h1, h2 {
 	font-weight: normal;
 	font-family: "Century Gothic";
 	margin: 3px;
-	padding: 0px;
+	padding: 0;
 }
 
 img {
